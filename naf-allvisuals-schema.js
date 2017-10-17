@@ -10,7 +10,7 @@
     }
 }(typeof self !== 'undefined' ? self : this, function () {
     const template = document.createElement('script');
-    template.setAttribute('naf-allvisuals-schema');
+    template.setAttribute('id', 'naf-allvisuals-schema');
     template.setAttribute('type', 'text/html');
     document.head.appendChild(template);
     NAF.schemas.add({

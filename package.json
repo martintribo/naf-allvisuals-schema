@@ -1,0 +1,19 @@
+{
+  "name": "naf-allvisuals-schema",
+  "version": "1.0.1",
+  "description": "A networked-aframe schema that networks all visual components of an entity.",
+  "main": "naf-allvisuals-schema.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martintribo/naf-allvisuals-schema.git"
+  },
+  "author": "Martin Tribo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martintribo/naf-allvisuals-schema/issues"
+  },
+  "homepage": "https://github.com/martintribo/naf-allvisuals-schema#readme"
+}
